@@ -1,0 +1,9 @@
+*.sln
+.vs/
+*.vsconfig
+*.dll
+*.pdb
+Plugins/
+Binaries/
+Intermediate/
+Saved/
