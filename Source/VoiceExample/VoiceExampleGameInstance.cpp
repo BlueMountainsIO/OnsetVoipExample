@@ -17,7 +17,7 @@ void UVoiceExampleGameInstance::Init()
 
 uint32 UVoiceExampleGameInstance::OnGetLocalNetworkVersionOverride()
 {
-	return 1;
+	return 2;
 }
 
 void UVoiceExampleGameInstance::OnViewportCreated()
