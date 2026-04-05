@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -77,6 +77,10 @@
 		},
 		{
 			"Name": "AndroidFileServer",
+			"Enabled": false
+		},
+		{
+			"Name": "Fab",
 			"Enabled": false
 		}
 	]
