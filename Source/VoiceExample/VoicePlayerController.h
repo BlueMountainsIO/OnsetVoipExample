@@ -24,6 +24,8 @@ public:
 	UFUNCTION(BlueprintCallable, BlueprintAuthorityOnly)
 	void SetPlayerSpectate();
 
+	virtual void BeginPlay() override;
+
 	virtual void BeginSpectatingState() override;
 
 	/** Replication Notification Callback */

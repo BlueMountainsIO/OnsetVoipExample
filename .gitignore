@@ -8,3 +8,10 @@ Binaries/
 Intermediate/
 Saved/
 Build/*/FileOpenOrder
+Build/*/VoiceExample.PackageVersionCounter
+Build/IOS/UBTGenerated/
+Build/IOS/Resources/*
+!Build/IOS/Resources/Graphics/
+Build/Mac/Resources/
+.DS_Store
+DerivedDataCache/

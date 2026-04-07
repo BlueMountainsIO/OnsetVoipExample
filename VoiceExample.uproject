@@ -82,6 +82,10 @@
 		{
 			"Name": "Fab",
 			"Enabled": false
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": false
 		}
 	]
 }
