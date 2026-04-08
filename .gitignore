@@ -1,6 +1,8 @@
 *.sln
 .vs/
 *.vsconfig
+*.code-workspace
+.vscode/
 *.dll
 *.pdb
 Plugins/
@@ -14,3 +16,4 @@ Build/IOS/Resources/*
 !Build/IOS/Resources/Graphics/
 .DS_Store
 DerivedDataCache/
+Makefile
