@@ -17,3 +17,4 @@ Build/IOS/Resources/*
 .DS_Store
 DerivedDataCache/
 Makefile
+*.xcworkspace
