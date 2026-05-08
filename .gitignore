@@ -3,8 +3,10 @@
 *.vsconfig
 *.code-workspace
 .vscode/
+.idea/
 *.dll
 *.pdb
+.ignore
 Plugins/
 Binaries/
 Intermediate/
