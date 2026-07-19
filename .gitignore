@@ -1,4 +1,5 @@
 *.sln
+*.slnx
 .vs/
 *.vsconfig
 *.code-workspace
@@ -11,6 +12,7 @@ Plugins/
 Binaries/
 Intermediate/
 Saved/
+Samples/
 Build/*/FileOpenOrder
 Build/*/VoiceExample.PackageVersionCounter
 Build/IOS/UBTGenerated/
