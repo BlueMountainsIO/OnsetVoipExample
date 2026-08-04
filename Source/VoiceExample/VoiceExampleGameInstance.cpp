@@ -1,5 +1,4 @@
-// Copyright Blue Mountains GmbH. All rights reserved.
-
+// Copyright Blue Mountains. All rights reserved.
 
 #include "VoiceExampleGameInstance.h"
 #include "Misc/NetworkVersion.h"
@@ -17,7 +16,8 @@ void UVoiceExampleGameInstance::Init()
 
 uint32 UVoiceExampleGameInstance::OnGetLocalNetworkVersionOverride()
 {
-	return 2;
+	// This is just for this demo so different builds don't fail to connect
+	return 3;
 }
 
 void UVoiceExampleGameInstance::OnViewportCreated()

@@ -1,4 +1,4 @@
-// Copyright Blue Mountains GmbH. All rights reserved.
+// Copyright Blue Mountains. All rights reserved.
 
 #pragma once
 

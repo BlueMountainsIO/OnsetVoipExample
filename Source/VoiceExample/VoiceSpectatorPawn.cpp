@@ -2,6 +2,7 @@
 
 
 #include "VoiceSpectatorPawn.h"
+#include "GameFramework/PlayerController.h"
 
 void AVoiceSpectatorPawn::ViewNextPlayer()
 {
